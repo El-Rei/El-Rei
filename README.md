@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋🏾
+👨🏾‍🎓 My name is Reinaldo André.
+-  📚 I’m currently pursuing my Master’s degree in Economics, specializing in Innovation Management.
+-  🎓 Prior to my Master's, I earned a Bachelor’s degree in Technology and Science Management.
+-  🧑🏾‍💻 Completed a three-year Associate’s Degree program in Web Development, Digital Media, and Multimedia Design.
+-  💡 Before that, I obtained a General Educational Development (GED) Diploma.
+-  📜 Along with certificates in Sound Engineering and Hospitality Management.
+
+🤓 It’s been a diverse and exciting learning journey so far!
 
 <!--
 **El-Rei/El-Rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
